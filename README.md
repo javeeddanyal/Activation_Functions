@@ -1,5 +1,6 @@
 # Activation_Functions
 Neural Networks and Deep Neural Networks
-* Relu
-* tanh
-* sigmoid
+* Relu - (rectified linear unit)
+* Tanh - (hyperbolic tangent)
+* Sigmoid
+* Softmax
